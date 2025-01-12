@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
  🔭 I'm a data-driven professional specializing in supply chain optimization, machine learning, and data analytics. My primary field of interest is operations research, where I apply advanced mathematical techniques to solve complex problems in supply chain management and logistics. I work on projects involving predictive modeling, network design optimization, and demand forecasting, all aimed at enhancing efficiency and decision-making in business operations.
 
-📫 you can reach me at arshdeepdandiala@gmmail.com
+📫 you can reach me at arshdeepdandiala@gmail.com
